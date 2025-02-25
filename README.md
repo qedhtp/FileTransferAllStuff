@@ -1,4 +1,4 @@
-In the hacking filed, the file transfer is very important, checkout this group's file apply when they hack one of the most rich tech company - Microsoft:
+In the hacking filed, the file transfer is very important, check out this group apply file transfer when they hack one of the richest tech company - Microsoft:
 
 [Dismantling a fileless campaign: Microsoft Defender ATP’s Antivirus exposes Astaroth attack](https://www.microsoft.com/en-us/security/blog/2019/07/08/dismantling-a-fileless-campaign-microsoft-defender-atp-next-gen-protection-exposes-astaroth-attack/)
 
